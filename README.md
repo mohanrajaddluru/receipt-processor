@@ -72,7 +72,6 @@ Breakdown:
   + ---------
   = 28 points
 
-```json
 {
   "retailer": "M&M Corner Market",
   "purchaseDate": "2022-03-20",
